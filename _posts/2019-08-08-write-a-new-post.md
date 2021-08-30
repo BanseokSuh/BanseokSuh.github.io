@@ -6,6 +6,8 @@ categories: [Blogging, Tutorial]
 tags: [writing]
 ---
 
+<!-- 로컬에서 실행해 미리보기 : bundle exec jekyll serve -->
+
 ## Naming and Path
 
 Create a new file named `YYYY-MM-DD-TITLE.EXTENSION` and put it in the `_posts/` of the root directory. Please note that the `EXTENSION` must be one of `md` and `markdown`.
@@ -19,11 +21,11 @@ Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-m
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+tags: [TAG] # TAG names should always be lowercase
 ---
 ```
 
-> **Note**: The posts' ***layout*** has been set to `post` by default, so there is no need to add the variable ***layout*** in Front Matter block.
+> **Note**: The posts' **_layout_** has been set to `post` by default, so there is no need to add the variable **_layout_** in Front Matter block.
 
 ### Timezone of date
 
@@ -78,7 +80,7 @@ mermaid: true
 ---
 ```
 
-Then you can use it like other markdown language: surround the graph code with ```` ```mermaid ```` and ```` ``` ````.
+Then you can use it like other markdown language: surround the graph code with ` ```mermaid ` and ` ``` `.
 
 ## Images
 
@@ -90,14 +92,13 @@ If you want to add an image to the top of the post contents, specify the attribu
 ---
 image:
   src: /path/to/image/file
-  width: 1000   # in pixels
-  height: 400   # in pixels
+  width: 1000 # in pixels
+  height: 400 # in pixels
   alt: image alternative text
 ---
 ```
 
 Except for `alt`, all other options are necessary, especially the `width` and `height`, which are related to user experience and web page loading performance. Later section ["Image size"](#image-size) will also mention this.
-
 
 ### Image caption
 
@@ -169,7 +170,7 @@ For instance, when using images:
 The parsing result will automatically add the CDN prefix `https://cdn.com` before the image path:
 
 ```html
-<img src="https://cdn.com/path/to/flower.png" alt="The flower">
+<img src="https://cdn.com/path/to/flower.png" alt="The flower" />
 ```
 
 ## Pinned Posts
@@ -184,7 +185,7 @@ pin: true
 
 ## Code Block
 
-Markdown symbols ```` ``` ```` can easily create a code block as following examples.
+Markdown symbols ` ``` ` can easily create a code block as following examples.
 
 ```
 This is a common code snippet, without syntax highlight and line number.
@@ -192,17 +193,17 @@ This is a common code snippet, without syntax highlight and line number.
 
 ## Specific Language
 
-Using ```` ```language ```` you will get code snippets with line numbers and syntax highlight.
+Using ` ```language ` you will get code snippets with line numbers and syntax highlight.
 
 > **Note**: The Jekyll style `{% raw %}{%{% endraw %} highlight LANGUAGE {% raw %}%}{% endraw %}` or `{% raw %}{%{% endraw %} highlight LANGUAGE linenos {% raw %}%}{% endraw %}` are not allowed to be used in this theme !
 
 ```yaml
 # Yaml code snippet
 items:
-    - part_no:   A4786
-      descrip:   Water Bucket (Filled)
-      price:     1.47
-      quantity:  4
+  - part_no: A4786
+    descrip: Water Bucket (Filled)
+    price: 1.47
+    quantity: 4
 ```
 
 ### Liquid Codes
@@ -210,14 +211,15 @@ items:
 If you want to display the **Liquid** snippet, surround the liquid code with `{% raw %}{%{% endraw %} raw {%raw%}%}{%endraw%}` and `{% raw %}{%{% endraw %} endraw {%raw%}%}{%endraw%}` .
 
 {% raw %}
+
 ```liquid
 {% if product.title contains 'Pack' %}
   This product's title contains the word Pack.
 {% endif %}
 ```
+
 {% endraw %}
 
 ## Learn More
 
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
-
