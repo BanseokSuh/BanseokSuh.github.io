@@ -20,6 +20,8 @@ tags: [Network]
 <img alt="Http response" src="https://user-images.githubusercontent.com/62047302/131335487-6cfc7593-76bd-4259-a08a-a077e462be0d.png">
 </center>
 
+<br>
+
 ## HTTP 프로토콜
 
 HTTP 프로토콜은 상태를 유지하지 않습니다. 즉, 이전에 보냈던 리퀘스트나 이미 되돌려준 리스폰스에 대해서는 전혀 기억하지 않습니다.
