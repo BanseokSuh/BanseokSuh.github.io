@@ -1,7 +1,7 @@
 ---
 title: 『그림으로 배우는 Http&Network Basic』 - 2. 간단한 프로토콜 HTTP
 author: Banny
-date: 2021-08-30 19:05:00 +0900
+date: 2021-08-31 10:30:00 +0900
 categories: [Network]
 tags: [Network]
 ---
