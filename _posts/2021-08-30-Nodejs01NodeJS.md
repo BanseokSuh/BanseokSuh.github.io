@@ -1,5 +1,5 @@
 ---
-title: NodeJS에 대하여
+title: 『Node.js 교과서』 - NodeJS에 대하여
 author: Banny
 date: 2021-08-30 16:49:00 +0900
 categories: [NodeJS]
@@ -126,4 +126,4 @@ I/O는 입력(Input)/출력(Output)을 말합니다.
 
 <br>
 <br>
-참고: <a href="http://www.yes24.com/Product/Goods/62597864">Node.js 교과서 - 조현영</a>
+참고: <a href="http://www.yes24.com/Product/Goods/62597864">『Node.js 교과서』 - 조현영</a>

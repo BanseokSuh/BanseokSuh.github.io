@@ -1,5 +1,5 @@
 ---
-title: 『그림으로 배우는 Http&Network Basic』 - 1. 웹 기본
+title: 『그림으로 배우는 Http&Network Basic』 - 1. 웹과 네트워크의 기본
 author: Banny
 date: 2021-08-30 19:05:00 +0900
 categories: [Network]
