@@ -2,8 +2,8 @@
 title: 『Node.js 교과서』 - NodeJS에 대하여
 author: Banny
 date: 2021-08-30 16:49:00 +0900
-categories: [NodeJS]
-tags: [NodeJS]
+categories: [NodeJS, 『Node.js 교과서』]
+tags: [NodeJS, 『Node.js 교과서』]
 ---
 
 ## NodeJS의 내부 구조

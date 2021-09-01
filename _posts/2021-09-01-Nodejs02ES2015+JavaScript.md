@@ -2,8 +2,8 @@
 title: 『Node.js 교과서』 - 알아두어야 할 자바스크립트
 author: Banny
 date: 2021-09-01 00:00:05 +0900
-categories: [NodeJS]
-tags: [NodeJS]
+categories: [NodeJS, 『Node.js 교과서』]
+tags: [NodeJS, 『Node.js 교과서』]
 ---
 
 ## const, let - var와의 차이
