@@ -1,7 +1,7 @@
 ---
 title: 인터넷 브라우저에 www.naver.com을 검색했을 때 화면이 띄워지기까지
 author: Banny
-date: 2021-09-01 00:00:00 +0900
+date: 2021-09-01 11:39:00 +0900
 categories: [Network]
 tags: [Network]
 ---
