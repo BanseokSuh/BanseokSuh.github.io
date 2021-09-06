@@ -1,5 +1,5 @@
 ---
-title: AWS-CloudFront
+title: AWS_CloudFront
 author: Banny
 date: 2021-09-07 00:41:00 +0900
 categories: [AWS]
