@@ -80,8 +80,9 @@ Amazon CloudFront는 현재 47개국 90개 도시에서 225개가 넘는 PoP(Poi
 <br>
 <br>
 
-참고: <br>
-<a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html">Amazon CloudFront란 무엇입니까?</a>,<br>
-<a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html#HowCloudFrontWorksOverview">콘텐츠를 전송하도록 CloudFront를 설정하는 방법</a>,<br>
-<a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html">CloudFront에서 콘텐츠를 제공하는 방법</a>,<br>
-<a href="https://aws.amazon.com/ko/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc">글로벌 엣지 네트워크</a>
+참고자료 <br>
+
+- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html">Amazon CloudFront란 무엇입니까?</a>,<br>
+- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html#HowCloudFrontWorksOverview">콘텐츠를 전송하도록 CloudFront를 설정하는 방법</a>,<br>
+- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html">CloudFront에서 콘텐츠를 제공하는 방법</a>,<br>
+- <a href="https://aws.amazon.com/ko/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc">글로벌 엣지 네트워크</a>

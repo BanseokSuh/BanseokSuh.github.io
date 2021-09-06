@@ -126,4 +126,5 @@ I/O는 입력(Input)/출력(Output)을 말합니다.
 
 <br>
 <br>
-참고: <a href="http://www.yes24.com/Product/Goods/62597864">『Node.js 교과서』 - 조현영</a>
+참고자료<br>
+- <a href="http://www.yes24.com/Product/Goods/62597864">『Node.js 교과서』 - 조현영</a>

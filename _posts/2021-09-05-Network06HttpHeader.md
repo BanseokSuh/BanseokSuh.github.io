@@ -91,4 +91,5 @@ to be continued...
 
 <br>
 <br>
-참고: <a href="http://www.yes24.com/Product/Goods/15894097">『그림으로 배우는 Http&Network Basic』 - 우에노 센</a>
+참고자료<br>
+- <a href="http://www.yes24.com/Product/Goods/15894097">『그림으로 배우는 Http&Network Basic』 - 우에노 센</a>

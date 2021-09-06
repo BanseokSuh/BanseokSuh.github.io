@@ -232,4 +232,5 @@ module.exports = {
 
 <br>
 <br>
-참고: <a href="https://cotak.tistory.com/102">https://cotak.tistory.com/102</a>
+참고자료<br>
+- <a href="https://cotak.tistory.com/102">https://cotak.tistory.com/102</a>

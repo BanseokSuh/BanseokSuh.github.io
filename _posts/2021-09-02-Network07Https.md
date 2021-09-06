@@ -80,4 +80,5 @@ TCP 접속과 HTTP 리퀘스트/리스폰스 이외에 SSL에 필요한 통신�
 
 <br>
 <br>
-참고: <a href="http://www.yes24.com/Product/Goods/15894097">『그림으로 배우는 Http&Network Basic』 - 우에노 센</a>
+참고자료<br>
+- <a href="http://www.yes24.com/Product/Goods/15894097">『그림으로 배우는 Http&Network Basic』 - 우에노 센</a>

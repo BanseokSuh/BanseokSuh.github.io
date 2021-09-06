@@ -128,4 +128,5 @@ async/await 구문은 에러를 처리하는 부분이 없으므로 try/catch문
 
 <br>
 <br>
-참고: <a href="http://www.yes24.com/Product/Goods/62597864">『Node.js 교과서』 - 조현영</a>
+참고자료<br>
+- <a href="http://www.yes24.com/Product/Goods/62597864">『Node.js 교과서』 - 조현영</a>
