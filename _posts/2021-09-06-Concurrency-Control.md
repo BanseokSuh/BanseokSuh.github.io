@@ -107,4 +107,4 @@ tags: [데이터베이스, 동시성 제어]
 <br>
 <br>
 
-참고: <a href="hhttps://medium.com/pocs/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%EA%B8%B0%EB%B2%95-%EC%9E%A0%EA%B8%88-locking-%EA%B8%B0%EB%B2%95-319bd0e6a68a">동시성 제어 기법 — 잠금(Locking) 기법</a>,<br> <a href="http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4/">데이터베이스 동시성 제어</a>,<br> <a href="http://www.jidum.com/jidums/view.do?jidumId=282">동시성제어개요</a>
+참고: <a href="https://medium.com/pocs/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4-%EA%B8%B0%EB%B2%95-%EC%9E%A0%EA%B8%88-locking-%EA%B8%B0%EB%B2%95-319bd0e6a68a">동시성 제어 기법 — 잠금(Locking) 기법</a>,<br> <a href="http://blog.skby.net/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4/">데이터베이스 동시성 제어</a>,<br> <a href="http://www.jidum.com/jidums/view.do?jidumId=282">동시성제어개요</a>
