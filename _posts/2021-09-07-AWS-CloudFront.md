@@ -6,10 +6,6 @@ categories: [AWS]
 tags: [AWS, CloudFront]
 ---
 
-<!-- testing -->
-<!-- dont know why this posting has not been posted yet -->
-<!-- Testing again. There would be some kinda problem on github-actions -->
-
 ## CloudFront란?
 
 HTML, CSS, JS, 이미지 파일 등 정적 및 동적 웹 컨텐츠를 더 빨리 배포할 수 있도록 지원해주는 서비스입니다.
@@ -20,7 +16,7 @@ CloudFront가 아닌 일반 웹 서버에서 이미지를 제공한다고 할 �
 
 CloudFront는 AWS 백본 네트워크를 통해 콘텐츠를 가장 효과적으로 서비스할 수 있는 엣지로 각 사용자 요청을 라우팅하여 콘텐츠 배포 속도를 높입니다.
 
-또한 파일(객체)가 전 세계 여러 엣지 로케이션에 캐싱되므로 안정성과 가용성이 향상됩니다.
+또한 파일(객체)이 전 세계 여러 엣지 로케이션에 캐싱되므로 안정성과 가용성이 향상됩니다.
 
 <br>
 
@@ -42,7 +38,7 @@ CloudFront는 AWS 백본 네트워크를 통해 콘텐츠를 가장 효과적으
 
 4. CloudFront는 새 배포에 도메인 이름을 할당합니다. 도메인 이름을 임의로 설정할 수도 있습니다.
 
-5. CloudFront에서는 배포의 구성을 모든 해당 엣지 로케이션 또는 CloudFront가 파일의 사본을 캐싱하는 지리적으로 분산된 데이터 센터의 POP(Point of Presence) 서버 모음으로 보냅니다.
+5. CloudFront에서는 배포의 구성을 모든 해당 엣지 로케이션 혹은 CloudFront가 파일의 사본을 캐싱하는 데이터 센터의 POP(Point of Presence)로 보냅니다.
 
 <br>
 
@@ -82,7 +78,7 @@ Amazon CloudFront는 현재 47개국 90개 도시에서 225개가 넘는 PoP(Poi
 
 참고자료 <br>
 
-- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html">Amazon CloudFront란 무엇입니까?</a>,<br>
-- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html#HowCloudFrontWorksOverview">콘텐츠를 전송하도록 CloudFront를 설정하는 방법</a>,<br>
-- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html">CloudFront에서 콘텐츠를 제공하는 방법</a>,<br>
+- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html">Amazon CloudFront란 무엇입니까?</a><br>
+- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html#HowCloudFrontWorksOverview">콘텐츠를 전송하도록 CloudFront를 설정하는 방법</a><br>
+- <a href="https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html">CloudFront에서 콘텐츠를 제공하는 방법</a><br>
 - <a href="https://aws.amazon.com/ko/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc">글로벌 엣지 네트워크</a>
