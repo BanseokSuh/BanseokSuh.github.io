@@ -93,23 +93,7 @@ Connection 헤더 필드는 다음의 두 가지 역할을 합니다.
 
 - 리스폰스에 관한 추가 정보를 전달합니다. 기본적으로 캐시에 관한 문제의 경고를 유저에 전달합니다.
 
-<!-- <br> -->
-<!--
-### <strong>리퀘스트 헤더 필드</strong>
-
-??
-
-### <strong>리스폰스 헤더 필드</strong>
-
-??
-
-### <strong>엔티티 헤더 필드</strong>
-
-??
-
-### <strong>쿠키를 위한 헤더 필드</strong> -->
-
 <br>
 <br>
 참고자료<br>
-- <a href="http://www.yes24.com/Product/Goods/15894097">『그림으로 배우는 Http&Network Basic』 - 우에노 센</a>
+- <a href="http://www.yes24.com/Product/Goods/15894097" target="_blank">『그림으로 배우는 Http&Network Basic』 - 우에노 센</a>
