@@ -63,6 +63,14 @@ SSL 암호화를 지원하는 것은 ELB의 주요 특징 중 하나입니다.
 <img alt="AWS-Redirect to HTTPS(2)" src="https://user-images.githubusercontent.com/62047302/132785859-f9d36b92-452b-43d5-bd3b-42779d1023bd.png">
 </center>
 
+<!-- <br>
+
+## AWS CloudWatch - 모니터링 시스템
+
+<center>
+<img alt="AWS-Redirect to HTTPS(2)" src="https://user-images.githubusercontent.com/62047302/132785859-f9d36b92-452b-43d5-bd3b-42779d1023bd.png">
+</center> -->
+
 <br>
 <br>
 참고자료<br>
