@@ -30,7 +30,7 @@ tags: [AWS, Load Balancing]
 
 <br>
 
-## 대상 등록하기
+## 대상 등록하기 및 트래픽 분산
 
 <center>
 <img alt="AWS-Target-Group" src="https://user-images.githubusercontent.com/62047302/132692049-ae90e09a-fc5c-4747-97a1-a5d9de8dd1f9.png">
@@ -54,12 +54,13 @@ SSL 암호화를 지원하는 것은 ELB의 주요 특징 중 하나입니다.
 
 <br>
 
-그러긴 위해서는 SSL 인증서가 필요합니다.
+그러긴 위해서는 SSL 인증서가 필요합니다. 저 같은 경우에는 아래 그림에서와 같이 ACM(Amazon Certificate Manager)룰 통해서 인증서를 발급받았습니다.
+이 작업을 완료하면 HTTP 프로토콜(80번 포트)로 요청이 들어왔을 시에 HTTPS 프로토콜(443번 포트)로 리다이렉트가 됩니다. 아마존에서 발급받은 인증서를 통해서 말이죠.
 
 <br>
 
 <center>
-<img alt="AWS-Redirect to HTTPS(2)" src="https://user-images.githubusercontent.com/62047302/132699194-0a50a9a4-c9ed-42d4-bf5c-c8cff55636a0.png">
+<img alt="AWS-Redirect to HTTPS(2)" src="https://user-images.githubusercontent.com/62047302/132785859-f9d36b92-452b-43d5-bd3b-42779d1023bd.png">
 </center>
 
 <br>
