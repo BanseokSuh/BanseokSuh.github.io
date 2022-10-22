@@ -2,7 +2,7 @@
 title: 『그림으로 배우는 Http&Network Basic』 - 5. HTTP와 연계하는 웹 서버
 author: Banny
 date: 2021-09-01 15:15:00 +0900
-categories: [Network, 『그림으로 배우는 Http&Network Basic』]
+categories: [독서, 독서_Network]
 tags: [Network, 『그림으로 배우는 Http&Network Basic』]
 ---
 

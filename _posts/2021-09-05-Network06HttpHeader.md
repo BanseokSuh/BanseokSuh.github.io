@@ -2,7 +2,7 @@
 title: 『그림으로 배우는 Http&Network Basic』 - 6. HTTP 헤더_01
 author: Banny
 date: 2021-09-05 23:15:00 +0900
-categories: [Network, 『그림으로 배우는 Http&Network Basic』]
+categories: [독서, 독서_Network]
 tags: [Network, 『그림으로 배우는 Http&Network Basic』]
 ---
 

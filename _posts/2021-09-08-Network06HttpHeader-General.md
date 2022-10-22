@@ -2,7 +2,7 @@
 title: 『그림으로 배우는 Http&Network Basic』 - 6. HTTP 헤더 - 일반 헤더 필드
 author: Banny
 date: 2021-09-08 10:15:00 +0900
-categories: [Network, 『그림으로 배우는 Http&Network Basic』]
+categories: [독서, 독서_Network]
 tags: [Network, 『그림으로 배우는 Http&Network Basic』]
 ---
 

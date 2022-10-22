@@ -2,7 +2,7 @@
 title: 『그림으로 배우는 Http&Network Basic』 - 4. 결과를 전달하는 HTTP 상태 코드
 author: Banny
 date: 2021-08-31 17:00:00 +0900
-categories: [Network, 『그림으로 배우는 Http&Network Basic』]
+categories: [독서, 독서_Network]
 tags: [Network, 『그림으로 배우는 Http&Network Basic』]
 ---
 

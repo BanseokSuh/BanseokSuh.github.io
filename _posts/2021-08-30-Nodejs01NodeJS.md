@@ -2,7 +2,7 @@
 title: 『Node.js 교과서』 - NodeJS에 대하여
 author: Banny
 date: 2021-08-30 16:49:00 +0900
-categories: [NodeJS, 『Node.js 교과서』]
+categories: [독서, 독서_Node.js]
 tags: [NodeJS, 『Node.js 교과서』]
 ---
 
