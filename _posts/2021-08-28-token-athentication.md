@@ -2,8 +2,8 @@
 title: 토큰 인증 방식
 author: Banny
 date: 2021-08-28 13:35:00 +0900
-categories: [Network]
-tags: [Network, Token Athentication]
+categories: [Network, Authentication]
+tags: [Network]
 ---
 
 ## 토큰 인증방식 flow

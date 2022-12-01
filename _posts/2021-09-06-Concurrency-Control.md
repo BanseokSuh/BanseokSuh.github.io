@@ -2,8 +2,8 @@
 title: 동시성 제어(Concurrency Control)
 author: Banny
 date: 2021-09-06 20:21:00 +0900
-categories: [데이터베이스]
-tags: [데이터베이스, 동시성 제어]
+categories: [DB]
+tags: [DB, 동시성 제어]
 ---
 
 ## 동시성 제어란?

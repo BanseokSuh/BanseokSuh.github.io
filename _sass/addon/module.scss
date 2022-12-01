@@ -7,7 +7,7 @@
 %heading {
   color: var(--heading-color);
   font-weight: 400;
-  font-family: 'Lato', 'Microsoft Yahei', sans-serif;
+  font-family: "Lato", "Microsoft Yahei", sans-serif;
 }
 
 %tag-hover {
@@ -28,7 +28,8 @@
 }
 
 %link-color {
-  color: var(--link-color);
+  // color: var(--link-color);
+  color: black;
 }
 
 %link-underline {
@@ -58,7 +59,8 @@
 }
 
 @mixin sidebar-links($color: rgba(255, 255, 255, 0.5)) {
-  color: $color;
+  // color: $color;
+  color: black;
   transition: color 0.35s ease-in-out;
   user-select: none;
 }
