@@ -717,7 +717,9 @@ $sidebar-display: "sidebar-display";
     &.active {
       .nav-link {
         // color: #fcfcfc;
-        color: darkgray;
+        // color: darkgray;
+        color: black;
+        font-weight: bold;
       }
     }
   }
