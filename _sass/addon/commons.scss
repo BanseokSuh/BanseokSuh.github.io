@@ -650,8 +650,8 @@ $sidebar-display: "sidebar-display";
 
     > a {
       display: block;
-      width: 12rem;
-      height: 12rem;
+      width: 10rem;
+      height: 10rem;
       border-radius: 30%;
       border: 2px solid #b6b6b6;
       overflow: hidden;
@@ -1540,8 +1540,8 @@ $sidebar-display: "sidebar-display";
         @extend %profile-ml;
 
         > a {
-          width: 6.2rem;
-          height: 6.2rem;
+          width: 12rem;
+          height: 12rem;
           &.mx-auto {
             margin-left: 0 !important;
           }
