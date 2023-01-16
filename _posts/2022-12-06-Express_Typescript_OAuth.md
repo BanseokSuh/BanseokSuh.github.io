@@ -8,7 +8,7 @@ tags: [Kakao OAuth]
 
 ## Kakao Oauth
 
-1. 카카오 DEV 콘솔에서 CLIENT_ID, CLIENT_SECRET을 발급받고, 인가 코드를 받은 REDIRECT_URI을 설정한다.
+1. 카카오 DEV 콘솔에서 CLIENT_ID, CLIENT_SECRET을 발급받고, 인가 코드를 받을 REDIRECT_URI을 설정한다.
 2. 카카오 서버로부터 인가 코드를 받는다.
 3. 인가 코드, CLIENT_ID, CLIENT_SECRET으로 카카오 서버로부터 ACCESS_TOKEN을 발급받는다.
 4. ACCESS_TOKEN으로 카카오 서버부터 사용자의 정보를 받는다.
