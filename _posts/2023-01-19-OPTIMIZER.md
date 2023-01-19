@@ -1,7 +1,7 @@
 ---
 title: 쿼리 실행 계획, 옵티마이저
 author: Banny
-date: 2023-01-19 13:00:00 +0900
+date: 2023-01-19 23:20:00 +0900
 categories: [DB, MySQL]
 tags: [optimizer]
 ---
