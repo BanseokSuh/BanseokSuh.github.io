@@ -1,9 +1,9 @@
 ---
-title: 『TIL』 2021-12-03
+title: 『MongoDB』 regex
 author: Banny
 date: 2021-12-04 15:21:00 +0900
-categories: [TIL]
-tags: [TIL]
+categories: [DB, MongoDB]
+tags: [MongoDB]
 ---
 
 # MongoDB 쿼리
