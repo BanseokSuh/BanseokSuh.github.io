@@ -6,6 +6,8 @@ categories: [Network, Authentication]
 tags: [Network]
 ---
 
+<!-- 로컬 서버 구동: bundle exec jekyll serve -->
+
 ## 토큰 인증방식 flow
 
 <img src="https://user-images.githubusercontent.com/62047302/131057242-f45f9fcf-fdd0-4dad-a9b2-e58f5edfe6f3.png">
