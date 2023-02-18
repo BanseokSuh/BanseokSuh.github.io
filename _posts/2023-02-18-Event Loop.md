@@ -48,7 +48,7 @@ tags: [Event Loop]
 \_1. Node.js는 **싱글 스레드** 기반의 언어<br>
 \_2. 즉, 한 번에 하나의 작업만 실행 (main 스레드에서)<br>
 \_3. 어떻게 동시적인 작업을 처리하는가? **Event Loop**를 통해서!<br>
-\_4. Node.js가 i/o 작업들을 요청받으면 libuv 라이브러리는 여러 해당 작업을 **worker thread**에게 맡김<br>
+\_4. Node.js가 i/o 작업들을 요청받으면 libuv 라이브러리는 여러 해당 작업을 **worker thread**에게 **비동기적**으로 맡김<br>
 \_5. 그 외에 개발자가 만들어낸 callback function 등의 로직은 **main thread**에서 작동함<br>
 \_6. Event loop에서 **cpu intensive**한 작업을 하여 스레드를 오래 점유하고 있으면?<br>
 \_7. 물리 인스턴스를 증설해도 유의미한 효과를 얻지 못함 <br>
