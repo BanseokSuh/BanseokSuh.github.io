@@ -74,6 +74,20 @@ tags: [Event Loop]
 </center>
 
 <br>
+
+## 추가
+
+- 아래의 그림을 이해해보도록 하자
+
+<strong>설명</strong>
+<br>
+작성중
+
+<center>
+<img alt="Event Loop" src="https://user-images.githubusercontent.com/62047302/221593232-b3c7ee27-ea90-4d19-9dd4-37a6ad650c29.jpeg">
+</center>
+
+<br>
 <br>
 참고자료<br>
 - <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway? | Philip Roberts | JSConf EU</a>
