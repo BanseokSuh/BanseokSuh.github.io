@@ -2,7 +2,7 @@
 title: 『MongoDB』 regex
 author: Banny
 date: 2021-12-04 15:21:00 +0900
-categories: [DB, MongoDB]
+categories: [Database, MongoDB]
 tags: [MongoDB]
 ---
 

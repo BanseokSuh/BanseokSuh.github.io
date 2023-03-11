@@ -2,8 +2,8 @@
 title: 쿼리 실행 계획, 옵티마이저
 author: Banny
 date: 2023-01-19 23:20:00 +0900
-categories: [DB, MySQL]
-tags: [optimizer]
+categories: [Database, MySQL]
+tags: [Optimizer]
 ---
 
 ## 쿼리 실행 계획이란?

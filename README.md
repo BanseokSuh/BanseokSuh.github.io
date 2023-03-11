@@ -3,13 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=BackEnd_BanseokSuh&fontSize=70)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanseokSuh&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/BanseokSuh/)
 
+<!-- 로컬 서버 구동: bundle exec jekyll serve -->
+
 <br>
 
 # 🥳 Introduce
 
-백엔드 개발자 서반석입니다! 😁
+백엔드 개발자 서반석입니다.
 <br>
-더 좋은 것을 탐구하고 끈기 있게 문제를 해결해 나갑니다.
+개발자에게 중요한 덕목은 스스로에게 솔직한 것과 타인에게 배려하는 것이라 생각합니다.
+<br>
 
 <!-- <div align="right">
   <a href="https://github.com/cotes2020/jekyll-theme-chirpy#readme">EN</a> |

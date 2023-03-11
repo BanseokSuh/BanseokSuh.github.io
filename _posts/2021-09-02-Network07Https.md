@@ -2,7 +2,7 @@
 title: 『그림으로 배우는 Http&Network Basic』 - 7. 웹을 안전하게 지켜주는 HTTPS
 author: Banny
 date: 2021-09-02 11:05:00 +0900
-categories: [Network]
+categories: [독서, 독서_Network]
 tags: [Network]
 ---
 

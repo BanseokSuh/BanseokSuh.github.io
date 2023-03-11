@@ -2,7 +2,7 @@
 title: Typescript 기반의 Express 서버에서 카카오 OAuth 연동
 author: Banny
 date: 2022-12-06 23:37:00 +0900
-categories: [Network, Authentication]
+categories: [Server, Authentication]
 tags: [Kakao OAuth]
 ---
 

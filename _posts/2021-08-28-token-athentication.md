@@ -2,11 +2,9 @@
 title: 토큰 인증 방식
 author: Banny
 date: 2021-08-28 13:35:00 +0900
-categories: [Network, Authentication]
+categories: [Server, Authentication]
 tags: [Network]
 ---
-
-<!-- 로컬 서버 구동: bundle exec jekyll serve -->
 
 ## 토큰 인증방식 flow
 
