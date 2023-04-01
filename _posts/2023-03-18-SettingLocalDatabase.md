@@ -1,5 +1,5 @@
 ---
-title: Mac 환경에서 virtual box 안에 ubuntu에 mysql docker container 띄우기
+title: Mac 환경에서 virtual box 안에 ubuntu에 mysql docker container 띄우기 (작성중)
 author: Banny
 date: 2023-03-18 00:06:00 +0900
 categories: [Server, Ubuntu]
