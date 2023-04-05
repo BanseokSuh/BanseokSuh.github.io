@@ -10,7 +10,8 @@ tags: [Event Loop]
 
 - Node.js는 **싱글 스레드** 언어이다.
 - 전체 runtime에서 스레드가 하나만 있는 것은 아니지만, 실제 사용할 수 있는 스레드는 하나이다.
-- 즉, 한 번에 하나의 작업만 수행할 수 있다는 것!
+- 즉, 한 번에 하나의 작업만 수행할 수 있다는 것!<br>
+  \*Javascript에서 Call Stack이 하나라는 것과 Javascript는 싱글스레드 언어라는 것은 같은 맥락이다.
 
 <br>
 
@@ -52,8 +53,8 @@ tags: [Event Loop]
 \_5. 그 외에 개발자가 만들어낸 callback function 등의 로직은 **main thread**에서 동작함<br>
 \_6. Event loop에서 **cpu intensive**한 작업을 하여 스레드를 오래 점유하고 있으면?<br>
 \_7. Node.js에서는 더 이상 다른 요청들을 처리하지 못함 <br>
-\_7. 물리 인스턴스를 증설해도 유의미한 효과를 얻지 못함 <br>
-\_8. cpu intensive한 코드를 피하자!!
+\_8. 물리 인스턴스를 증설해도 유의미한 효과를 얻지 못함 <br>
+\_9. cpu intensive한 코드를 피하자!!
 
 <br>
 
