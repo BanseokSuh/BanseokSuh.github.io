@@ -2,7 +2,7 @@
 title: Springboot 어노테이션 정리
 author: Banny
 date: 2023-05-11 10:56:00 +0900
-categories: [Springboot]
+categories: [Programming, Springboot]
 tags: [Springboot]
 ---
 
