@@ -1,10 +1,11 @@
 ---
 title: Git 명령어
 author: Banny
-date:2023-05-15 11:56:00 +0900
+date: 2023-05-15 11:56:00 +0900
 categories: [Git]
-tags: [Git command]
+tags: [GitCommand]
 ---
+
 
 ## Git 명령어 정리
 
