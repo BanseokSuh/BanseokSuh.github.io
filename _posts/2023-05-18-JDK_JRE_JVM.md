@@ -1,7 +1,7 @@
 ---
 title: JDK, JRE, JVM 차이 간략 비교
 author: Banny
-date: 2023-05-18 10:56:00 +0900
+date: 2023-05-18 10:50:00 +0900
 categories: [Java]
 tags: [Java, JDK, JRE, JVM]
 ---
