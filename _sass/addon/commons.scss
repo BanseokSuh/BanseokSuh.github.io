@@ -1293,6 +1293,8 @@ $sidebar-display: "sidebar-display";
 
   #main-wrapper {
     margin-left: $sidebar-width;
+    // margin-left: $sidebar-width * 0.8;
+    // margin-left: 300px;
   }
 
   .profile-wrapper {
@@ -1344,7 +1346,7 @@ $sidebar-display: "sidebar-display";
 /* Compact icons in sidebar & panel hidden */
 @media all and (min-width: 850px) and (max-width: 1199px) {
   #sidebar {
-    width: $sidebar-width-small;
+    width: $sidebar-width-small * 0.9;
 
     .site-subtitle {
       margin-left: 1rem;
@@ -1468,7 +1470,7 @@ $sidebar-display: "sidebar-display";
   #main > div.row {
     padding-left: calc((100% - #{$main-content-max-width}) / 2);
     > div.col-xl-8 {
-      max-width: 850px;
+      max-width: 1200px;
     }
   }
 
@@ -1499,12 +1501,13 @@ $sidebar-display: "sidebar-display";
     padding-left: 0;
     > div:first-child {
       padding-left: 0.55rem !important;
-      padding-right: 1.9rem !important;
+      // padding-right: 1.9rem !important;
     }
   }
 
   #main-wrapper {
-    margin-left: $sidebar-width-large;
+    // margin-left: $sidebar-width-large;
+    margin-left: $sidebar-width-large * 0.4;
   }
 
   #panel-wrapper {
@@ -1525,7 +1528,7 @@ $sidebar-display: "sidebar-display";
   }
 
   #sidebar {
-    width: $sidebar-width-large;
+    width: $sidebar-width-large * 0.9;
 
     .profile-wrapper {
       margin-top: 4rem;
@@ -1669,7 +1672,7 @@ $sidebar-display: "sidebar-display";
   }
 
   #panel-wrapper {
-    margin-left: 3%;
+    // margin-left: 3.5%;
   }
 
   footer {
