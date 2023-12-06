@@ -1293,8 +1293,6 @@ $sidebar-display: "sidebar-display";
 
   #main-wrapper {
     margin-left: $sidebar-width;
-    // margin-left: $sidebar-width * 0.8;
-    // margin-left: 300px;
   }
 
   .profile-wrapper {
@@ -1346,6 +1344,7 @@ $sidebar-display: "sidebar-display";
 /* Compact icons in sidebar & panel hidden */
 @media all and (min-width: 850px) and (max-width: 1199px) {
   #sidebar {
+    // width: $sidebar-width-small;
     width: $sidebar-width-small * 0.9;
 
     .site-subtitle {
@@ -1470,7 +1469,8 @@ $sidebar-display: "sidebar-display";
   #main > div.row {
     padding-left: calc((100% - #{$main-content-max-width}) / 2);
     > div.col-xl-8 {
-      max-width: 1200px;
+      max-width: 1250px;
+      // max-width: 850px;
     }
   }
 
@@ -1506,8 +1506,8 @@ $sidebar-display: "sidebar-display";
   }
 
   #main-wrapper {
+    margin-left: $sidebar-width-large * 0.9;
     // margin-left: $sidebar-width-large;
-    margin-left: $sidebar-width-large * 0.4;
   }
 
   #panel-wrapper {
@@ -1529,6 +1529,7 @@ $sidebar-display: "sidebar-display";
 
   #sidebar {
     width: $sidebar-width-large * 0.9;
+    // width: $sidebar-width-large;
 
     .profile-wrapper {
       margin-top: 4rem;
@@ -1672,7 +1673,8 @@ $sidebar-display: "sidebar-display";
   }
 
   #panel-wrapper {
-    // margin-left: 3.5%;
+    // margin-left: 3%;
+    margin-left: 3.5%;
   }
 
   footer {
@@ -1687,7 +1689,9 @@ $sidebar-display: "sidebar-display";
 
 @media (min-width: 1920px) {
   #main > div.row {
-    padding-left: 120px;
+    padding-left: 5rem;
+    // padding-left: 200px;
+    // padding-left: 120px;
   }
 
   #search-result-wrapper {
