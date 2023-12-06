@@ -1344,8 +1344,8 @@ $sidebar-display: "sidebar-display";
 /* Compact icons in sidebar & panel hidden */
 @media all and (min-width: 850px) and (max-width: 1199px) {
   #sidebar {
-    // width: $sidebar-width-small;
-    width: $sidebar-width-small * 0.9;
+    width: $sidebar-width-small;
+    // width: $sidebar-width-small * 0.9;
 
     .site-subtitle {
       margin-left: 1rem;
